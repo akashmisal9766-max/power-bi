@@ -57,6 +57,7 @@ Through this project, I improved my practical knowledge of:
 This project helped me understand how raw sales data can be transformed into meaningful business insights using Power BI.
 I am continuously learning and improving my Data Analytics skills, and I look forward to working on more real-world projects.
 
+<img width="1025" height="551" alt="Blinkait 1" src="https://github.com/user-attachments/assets/3c7cbe5c-246f-48b3-aac5-f3669beda951" />
 
 
 
