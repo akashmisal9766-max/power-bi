@@ -56,3 +56,8 @@ Through this project, I improved my practical knowledge of:
 💡Project Outcome
 This project helped me understand how raw sales data can be transformed into meaningful business insights using Power BI.
 I am continuously learning and improving my Data Analytics skills, and I look forward to working on more real-world projects.
+
+
+
+
+
